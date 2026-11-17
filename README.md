@@ -58,11 +58,3 @@
 <h3><img src="https://api.iconify.design/lucide/mail.svg?color=%2358a6ff" height="22" align="center" />&nbsp; Contact me</h3>
 
 <a href="mailto:tahmazovhussejn@gmail.com"><img src="https://img.shields.io/badge/tahmazovhussejn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tahmazovhussejn@gmail.com" /></a>
-
-<h3><img src="https://api.iconify.design/lucide/link.svg?color=%2358a6ff" height="22" align="center" />&nbsp; Links</h3>
-
-<!-- Replace the # in the LinkedIn link with your real profile link (or delete that line) -->
-- <a href="https://khusseintakhmazov24.thkit.ee/"><img src="https://img.shields.io/badge/Homepage-0E75B6?style=for-the-badge&logo=html5&logoColor=white" alt="Homepage" align="center" /></a>&nbsp; My main site
-- <a href="https://khusseintakhmazov24.thkit.ee/wp/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress portfolio" align="center" /></a>&nbsp; My WordPress portfolio
-- <a href="https://github.com/afunne"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" align="center" /></a>&nbsp; All my repositories
-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a>&nbsp; My LinkedIn profile
